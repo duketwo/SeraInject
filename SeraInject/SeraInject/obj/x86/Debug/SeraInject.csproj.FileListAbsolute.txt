@@ -1,0 +1,11 @@
+C:\Users\Kev\AppData\Local\Temporary Projects\SeraInject\bin\Debug\SeraInject.exe
+C:\Users\Kev\AppData\Local\Temporary Projects\SeraInject\bin\Debug\SeraInject.pdb
+C:\Users\Kev\AppData\Local\Temporary Projects\SeraInject\obj\x86\Debug\SeraInject.exe
+C:\Users\Kev\AppData\Local\Temporary Projects\SeraInject\obj\x86\Debug\SeraInject.pdb
+C:\Users\Kev\documents\visual studio 2010\Projects\SeraInject\SeraInject\obj\x86\Debug\SeraInject.exe
+C:\Users\Kev\documents\visual studio 2010\Projects\SeraInject\SeraInject\obj\x86\Debug\SeraInject.pdb
+C:\Users\Kev\documents\visual studio 2010\Projects\SeraInject\SeraInject\bin\Debug\SeraInject.exe.config
+C:\Users\Kev\documents\visual studio 2010\Projects\SeraInject\SeraInject\bin\Debug\SeraInject.exe
+C:\Users\Kev\documents\visual studio 2010\Projects\SeraInject\SeraInject\bin\Debug\SeraInject.pdb
+C:\Users\Kev\documents\visual studio 2010\Projects\SeraInject\SeraInject\bin\Debug\lua51.dll
+C:\Users\Kev\documents\visual studio 2010\Projects\SeraInject\SeraInject\obj\x86\Debug\SeraInject.csprojResolveAssemblyReference.cache
