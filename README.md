@@ -48,8 +48,6 @@ Info:
 * windowname(windowName)
 * WriteMemoryAsInt(location, integer)
 
-===========
-
 ## Bugs
 
 * There is a few bugs. that I'll fix later. 
