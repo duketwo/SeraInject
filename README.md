@@ -1,6 +1,7 @@
 ##Sera Inject
 
 Old Lua Injector from 2010. Mainly used for League of Legends.
+Credits : 
 
 ===========
 
